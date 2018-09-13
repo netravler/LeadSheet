@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\bin\Debug\LeadSheet.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\bin\Debug\LeadSheet.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\LeadSheet.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\LeadSheet.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\LeadSheet.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\LeadSheet\LeadSheet\obj\x86\Debug\LeadSheet.pdb
